@@ -1,4 +1,4 @@
-# SAM2-Based Mask Extraction and Manual Labeling Tool
+# SAM2-Based Mask Extraction and Auto Labeling Tool
 
 This repository contains two main tools for working with semantic segmentation masks on images using the SAM2 model:
 
